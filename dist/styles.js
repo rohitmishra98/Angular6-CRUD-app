@@ -580,8 +580,8 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\mini-app-assessment\node_modules\bootstrap\dist\css\bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
-module.exports = __webpack_require__(/*! C:\mini-app-assessment\src\styles.css */"./src/styles.css");
+__webpack_require__(/*! C:\rohitmishra98.github.io\mini-app-assessment\node_modules\bootstrap\dist\css\bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
+module.exports = __webpack_require__(/*! C:\rohitmishra98.github.io\mini-app-assessment\src\styles.css */"./src/styles.css");
 
 
 /***/ })
